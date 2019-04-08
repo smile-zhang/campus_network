@@ -3,8 +3,8 @@
 <html>
   <head> 
     <title>校内首页面</title>
-    <link rel="stylesheet" href="/xiaoneinew/css/common.css" type="text/css"/>
-  <link rel="stylesheet" href="/xiaoneinew/css/index.css" type="text/css"/>
+    <link rel="stylesheet" href="/css/common.css" type="text/css"/>
+  <link rel="stylesheet" href="/css/index.css" type="text/css"/>
   
   </head>
   <body>
@@ -13,7 +13,7 @@
     <div class="main">
     <div class="reg_login">
     <div class="logForm">
-    	<form action="/xiaoneinew/login.do?flag=login" method="post">
+    	<form action="/login.do?flag=login" method="post">
 	    <span class="font4">登录邮箱:</span><br/>
 	    <input type="text"  name="email" /><br/> 
 	    <span  class="font4">登录密码:</span><br/>
@@ -50,13 +50,13 @@
     <span class="font2">因为真实 所以精彩</span>
     <p>
     校内存知己<br/>
-    <input type="image" onclick="" src="/xiaoneinew/images/front/register.jpg" />
+    <input type="image" onclick="" src="/images/front/register.jpg" />
     </p>
     </div>
     <!-- 寻找你的朋友 -->
     <div class="sea_friend">
     <span class="font2">寻找你的朋友</span>　<input type="text" name="sea_friend" />
-    <img src="/xiaoneinew/images/front/sou.jpg" /><br/>
+    <img src="/images/front/sou.jpg" /><br/>
     * <span class="font3">校内网目前已开通<font class="font1">海外1500所大学</font>、 <font class="font1">国内3000所大学</font>、 <font class="font1">56000所中学</font>及 <font class="font1">85000家公司</font>。</span>
     </div>
     <!-- 建议 -->

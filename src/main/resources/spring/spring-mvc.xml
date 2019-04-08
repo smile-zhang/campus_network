@@ -23,20 +23,21 @@
     <context:annotation-config/>
 
     <!-- 设置使用注解的类所在的jar包 -->
-    <context:component-scan base-package="controller"></context:component-scan>
 
-    <mvc:annotation-driven conversion-service="conversionService"></mvc:annotation-driven>
+    <mvc:annotation-driven/>
+
+    <context:component-scan base-package="controller"/>
 
     <!-- 对转向页面的路径解析。prefix：前缀， suffix：后缀 -->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" p:prefix="/jsp/" p:suffix=".jsp"/>
 
-    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
-        <property name="maxUploadSize">
-            <value>9242880</value>
-        </property>
-    </bean>
+    <!--<bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">-->
+        <!--<property name="maxUploadSize">-->
+            <!--<value>9242880</value>-->
+        <!--</property>-->
+    <!--</bean>-->
 
     <mvc:resources mapping="/images/**" location="/images/" />
-    <mvc:resources mapping="/campus_network/css/**" location="/css/" />
-    <mvc:resources mapping="/campus_network/js/**" location="/js/" />
+    <mvc:resources mapping="/css/**" location="/css/" />
+    <mvc:resources mapping="/js/**" location="/js/" />
 </beans>

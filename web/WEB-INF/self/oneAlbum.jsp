@@ -4,7 +4,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<link rel="stylesheet" href="/campus_network/css/css/updPersonInfo.css" type="text/css"></link>
+		<link rel="stylesheet" href="/css/css/updPersonInfo.css" type="text/css"></link>
 	</head>
 	<body>
 		<jsp:include page="head.jsp"></jsp:include>
@@ -22,7 +22,7 @@
 												<tr>
 													<td rowspan="2" width="10%">
 														<a href="profile.do?type=feed&oid=xx"><img
-																src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" /> </a>
+																src="/images/userhead/u1.gif" width="50px" height="50px" /> </a>
 													</td>
 													<td>
 														<font class="word2"> 我 或是 我看的人 的相册</font>
@@ -78,10 +78,10 @@
 													<c:forEach var="photo" items="${photoList}" varStatus="vs">
 													<td width="20%" align="center">
 														<a
-															href="/campus_network/album.do?flag=onePhotoUI&pid=xx&oid=xx&aid=xx&pageNo=1"
+															href="/album.do?flag=onePhotoUI&pid=xx&oid=xx&aid=xx&pageNo=1"
 															style="border: 1px #D8DFEA solid;"
 															onmouseover="chgImg(this)" onmouseout="chgImg2(this)"
-															id="a x"> <img src="/campus_network/images/${loginuser.id }/album/${photo.album.id }/${photo.photo}"
+															id="a x"> <img src="/images/${loginuser.id }/album/${photo.album.id }/${photo.photo}"
 																width="100px" height="75px" alt="xxxx"
 																style="border: 5px #FFFFFF solid;" id="aa+xxxx" /> </a>
 													</td>
@@ -130,7 +130,7 @@
 							</div>
 						</td>
 						<td valign="top" align="center">
-							<img src="/campus_network/images/front/albumright.jpg" />
+							<img src="/images/front/albumright.jpg" />
 						</td>
 					</tr>
 				</table>

@@ -4,8 +4,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<link rel="stylesheet" href="/campus_network/css/css/home.css" type="text/css"></link>
-		<link rel="stylesheet" href="/campus_network/css/css/common.css" type="text/css"></link>
+		<link rel="stylesheet" href="/css/css/home.css" type="text/css"></link>
+		<link rel="stylesheet" href="/css/css/common.css" type="text/css"></link>
 		<script type="text/javascript">
 		<!--
 		
@@ -34,7 +34,7 @@
 						</tr>
 						<tr>
 							<td width="20%">
-								<img src="/campus_network/images/front/blog.gif" />
+								<img src="/images/front/blog.gif" />
 							</td>
 							<td>
 								<a class="yy" href="#">日志</a>
@@ -45,7 +45,7 @@
 						</tr>
 						<tr>
 							<td>
-								<img src="/campus_network/images/front/photo.gif" />
+								<img src="/images/front/photo.gif" />
 							</td>
 							<td>
 								<a href="" class="yy">相册</a>
@@ -56,7 +56,7 @@
 						</tr>
 						<tr>
 							<td>
-								<img src="/campus_network/images/front/group.gif" />
+								<img src="/images/front/group.gif" />
 							</td>
 							<td>
 								<a href="" class="yy">群组</a>
@@ -67,7 +67,7 @@
 						</tr>
 						<tr>
 							<td>
-								<img src="/campus_network/images/front/share.gif" />
+								<img src="/images/front/share.gif" />
 							</td>
 							<td>
 								<a href="" class="yy">分享</a>
@@ -78,7 +78,7 @@
 						</tr>
 						<tr>
 							<td>
-								<img src="/campus_network/images/front/gift.gif" />
+								<img src="/images/front/gift.gif" />
 							</td>
 							<td>
 								<a href="" class="yy">礼物</a>
@@ -89,7 +89,7 @@
 						</tr>
 						<tr>
 							<td>
-								<img src="/campus_network/images/front/toupiao.gif" />
+								<img src="/images/front/toupiao.gif" />
 							</td>
 							<td>
 								<a href="" class="yy">投票</a>
@@ -101,7 +101,7 @@
 					</table>
 				</div>
 				<div class="home_ad">
-					<img src="/campus_network/images/front/homeleft.jpg" />
+					<img src="/images/front/homeleft.jpg" />
 				</div>
 			</div>
 			<div class="content">
@@ -109,7 +109,7 @@
 					<table>
 						<tr>
 							<td rowspan="3" width="193px">
-								<img src="/campus_network/images/userhead/u1.gif" width="150px" height="150px" />
+								<img src="/images/userhead/u1.gif" width="150px" height="150px" />
 							</td>
 							<td colspan="4" class="word2">
 								三少爷
@@ -124,19 +124,19 @@
 						</tr>
 						<tr>
 							<td width="83">
-								<img src="/campus_network/images/front/status.gif" />
+								<img src="/images/front/status.gif" />
 								<a class="xh" href="javascript:void(0);" onclick="showDoing()">改状态</a>
 							</td>
 							<td width="83">
-								<img src="/campus_network/images/front/blog.gif" />
+								<img src="/images/front/blog.gif" />
 								<a class="xh" href="writeBlog.jsp">写日志</a>
 							</td>
 							<td width="83">
-								<img src="/campus_network/images/front/photo.gif" />
+								<img src="/images/front/photo.gif" />
 								<a class="xh" href="addAlbum.jsp">传照片</a>
 							</td>
 							<td width="83">
-								<img src="/campus_network/images/front/share.gif" />
+								<img src="/images/front/share.gif" />
 								<a class="xh" href="">分享</a>
 							</td>
 						</tr>
@@ -164,7 +164,7 @@
 						</tr>
 						<tr>
 							<td>
-								<img src="/campus_network/images/front/wall_post.gif" />
+								<img src="/images/front/wall_post.gif" />
 								<span class="word4">小明 在 体育 回复你</span>
 							</td>
 							<td>
@@ -177,7 +177,7 @@
 						</tr>
 						<tr>
 							<td>
-								<img src="/campus_network/images/front/wall_post.gif" />
+								<img src="/images/front/wall_post.gif" />
 								<span class="word4">小明 在 体育 回复你</span>
 							</td>
 							<td>
@@ -190,7 +190,7 @@
 						</tr>
 						<tr>
 							<td>
-								<img src="/campus_network/images/front/wall_post.gif" />
+								<img src="/images/front/wall_post.gif" />
 								<span class="word4">小明 在 体育 回复你</span>
 							</td>
 							<td>
@@ -231,32 +231,32 @@
 						</tr>
 						<tr>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷你</a>
 							</td>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
@@ -284,32 +284,32 @@
 						</tr>
 						<tr>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷你</a>
 							</td>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
-								<a><img src="/campus_network/images/userhead/u1.gif" width="55px"
+								<a><img src="/images/userhead/u1.gif" width="55px"
 										height="55px" /> </a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
@@ -343,27 +343,27 @@
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 								<span class="word3">11月11日<!-- 这是该人加入时间 -->
 								</span>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 								<span class="word3">11月11日<!-- 这是该人加入时间 -->
 								</span>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 								<span class="word3">11月11日<!-- 这是该人加入时间 -->
 								</span>
@@ -372,27 +372,27 @@
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 								<span class="word3">11月11日<!-- 这是该人加入时间 -->
 								</span>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 								<span class="word3">11月11日<!-- 这是该人加入时间 -->
 								</span>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 								<span class="word3">11月11日<!-- 这是该人加入时间 -->
 								</span>
@@ -417,46 +417,46 @@
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 						</tr>
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 						</tr>
@@ -478,25 +478,25 @@
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<span class="word3">11月11日<!-- 这是该人的生日 -->
 								</span>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<span class="word3">11月11日<!-- 这是该人的生日 -->
 								</span>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<span class="word3">11月11日<!-- 这是该人的生日 -->
 								</span>
 							</td>
@@ -504,25 +504,25 @@
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<span class="word3">11月11日<!-- 这是该人的生日 -->
 								</span>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<span class="word3">11月11日<!-- 这是该人的生日 -->
 								</span>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<span class="word3">11月11日<!-- 这是该人的生日 -->
 								</span>
 							</td>
@@ -546,46 +546,46 @@
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 						</tr>
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u14.gif" width="55px" height="55px" /> </a>
+										src="/images/userhead/u14.gif" width="55px" height="55px" /> </a>
 								<!-- 如果该人在线，则显示 -->
-								<img src="/campus_network/images/front/online.gif" />
+								<img src="/images/front/online.gif" />
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷</a>
 							</td>
 						</tr>

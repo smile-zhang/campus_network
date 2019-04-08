@@ -4,11 +4,11 @@
 <html>
   <head> 
     <title>校内用户注册</title>
-    <link rel="stylesheet" type="text/css" href="/campus_network/css/common.css"/>
-	<link rel="stylesheet" type="text/css" href="/campus_network/css/register.css"/>
- 	<script type="text/javascript" src="/campus_network/js/jquery-1.3.1.js"></script>
- 	<script type="text/javascript" src="/campus_network/js/publicJs.js"></script>
- 	<script type="text/javascript" src="/campus_network/myAJAX/ajax_uni.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/common.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/register.css"/>
+ 	<script type="text/javascript" src="/js/jquery-1.3.1.js"></script>
+ 	<script type="text/javascript" src="/js/publicJs.js"></script>
+ 	<script type="text/javascript" src="/myAJAX/ajax_uni.js"></script>
  	
  
  
@@ -19,12 +19,12 @@
    <div class="reg_main_frame">
    <!-- 加入校内后，可以选择... -->
    <div class="play_item">
-   <img src="/campus_network/images/front/jiaru.jpg" />
+   <img src="/images/front/jiaru.jpg" />
    </div>
    <!-- 注册用的表格 -->
    <div class="reg_table1">
    <span class="font6">简单一步，快速注册</span><br/>
-   <form action="/campus_network/register.do?flag=regUser"  method="post">
+   <form action="/register.do?flag=regUser"  method="post">
    <table>
    <tr>
    <td class="tab_td1">真实姓名:</td>
@@ -105,7 +105,7 @@
    <td class="tab_td1">电子邮箱:<br/>&nbsp;</td>
    <td>
    <input type="text" name="email" /><br/>
-   <img src="/campus_network/images/front/tanhao.png" />如果没有邮箱，请注册<a href="#">Hotmail</a>邮箱。
+   <img src="/images/front/tanhao.png" />如果没有邮箱，请注册<a href="#">Hotmail</a>邮箱。
    </td>
    <td></td>
    </tr>

@@ -4,7 +4,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<link rel="stylesheet" href="/campus_network/css/css/updPersonInfo.css" type="text/css"></link>
+		<link rel="stylesheet" href="/css/css/updPersonInfo.css" type="text/css"></link>
 	</head>
 	<body>
 
@@ -66,7 +66,7 @@
 
 									<tr>
 										<td>
-											<form action="/campus_network/profile.do?flag=uploadPhoto" method="post"
+											<form action="/profile.do?flag=uploadPhoto" method="post"
 												enctype="multipart/form-data">
 												<table width="100%" border="0" cellspacing="1"
 													cellpadding="10">
@@ -85,7 +85,7 @@
 															&nbsp;
 															<font class="word3">你可以到你的<a href="" class="xh">头像相册</a>里选择照片设置为当前头像</font>
 															<br />
-															<img src="/campus_network/images/${loginuser.id }/head/${loginuser.photo }?abc=<%=Math.random() %>" width="200"
+															<img src="/images/${loginuser.id }/head/${loginuser.photo }?abc=<%=Math.random() %>" width="200"
 																height="200" />
 														</td>
 														<td valign="top">
@@ -111,7 +111,7 @@
 							</div>
 						</td>
 						<td align="center">
-							<img src="/campus_network/images/front/selfright.jpg" />
+							<img src="/images/front/selfright.jpg" />
 						</td>
 					</tr>
 				</table>

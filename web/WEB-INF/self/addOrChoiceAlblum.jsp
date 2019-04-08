@@ -4,7 +4,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<link rel="stylesheet" href="/campus_network/css/css/updPersonInfo.css" type="text/css"></link>
+		<link rel="stylesheet" href="/css/css/updPersonInfo.css" type="text/css"></link>
 	</head>
 	<body>
 
@@ -18,21 +18,21 @@
 						>
 						<tr>
 							<td  style="border-bottom: 1px #898989 solid;">
-								<img src="/campus_network/images/front/photo.gif" />
+								<img src="/images/front/photo.gif" />
 								<font class="word2" > 上传新照片
 								</font>
 							</td>
 						</tr>
 						<tr>
 							<td >
-								<img src="/campus_network/images/front/photo.gif" />
+								<img src="/images/front/photo.gif" />
 								<font class="word2" > 创建相册
 								</font>
 							</td>
 						</tr>
 						<tr>
 							<td valign="top"  align="center" style="border-bottom: 1px #D8DFEA solid;">
-								<form action="/campus_network/album.do?flag=addPhotoUI" method="post">
+								<form action="/album.do?flag=addPhotoUI" method="post">
 								<table width="80%" cellpadding="5" cellspacing="5" border="0">
 								
 									<tr>
@@ -90,7 +90,7 @@
 						</tr>
 						<tr>
 							<td >
-								<img src="/campus_network/images/front/photo.gif" />
+								<img src="/images/front/photo.gif" />
 								<font class="word2" > 选择相册
 								</font>
 							</td>
@@ -128,7 +128,7 @@
 					</table>
 				</td>
 				<td valign="top" align="center">
-					<img src="/campus_network/images/front/albumright.jpg" />
+					<img src="/images/front/albumright.jpg" />
 				</td>
 				</tr>
 				</table>

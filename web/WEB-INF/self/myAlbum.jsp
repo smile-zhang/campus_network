@@ -4,7 +4,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<link rel="stylesheet" href="/campus_network/css/css/updPersonInfo.css" type="text/css"></link>
+		<link rel="stylesheet" href="/css/css/updPersonInfo.css" type="text/css"></link>
 	</head>
 	<body>
 
@@ -19,7 +19,7 @@
 								<tr>
 									<td rowspan="2" width="10%">
 										<a href="profile.do?type=feed&oid=xx"><img
-												src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" />
+												src="/images/userhead/u1.gif" width="50px" height="50px" />
 										</a>
 									</td>
 									<td>
@@ -28,7 +28,7 @@
 								</tr>
 								<tr>
 									<td>
-										<a href="/campus_network/album.do?flag=addAlbumUI" class="xh">上传新照片</a>
+										<a href="/album.do?flag=addAlbumUI" class="xh">上传新照片</a>
 									</td>
 								</tr>
 							</table>
@@ -77,7 +77,7 @@
 											<tr>
 												<td valign="top" width="33%">
 													<a href="album.do?type=oneAlbum&oid=xx&pageNo=1&aid=xx">
-														<img src="/campus_network/images/photos/c1.jpg" width="200px"
+														<img src="/images/photos/c1.jpg" width="200px"
 															height="150px" border="0" /> </a>
 												</td>
 												<td valign="top">
@@ -126,7 +126,7 @@
 											<tr>
 												<td valign="top" width="33%">
 													<a href="album.do?type=oneAlbum&oid=xx&pageNo=1&aid=xx">
-														<img src="/campus_network/images/photos/c1.jpg" width="200px"
+														<img src="/images/photos/c1.jpg" width="200px"
 															height="150px" border="0" /> </a>
 												</td>
 												<td valign="top">
@@ -175,7 +175,7 @@
 											<tr>
 												<td valign="top" width="33%">
 													<a href="album.do?type=oneAlbum&oid=xx&pageNo=1&aid=xx">
-														<img src="/campus_network/images/photos/c1.jpg" width="200px"
+														<img src="/images/photos/c1.jpg" width="200px"
 															height="150px" border="0" /> </a>
 												</td>
 												<td valign="top">
@@ -224,7 +224,7 @@
 											<tr>
 												<td valign="top" width="33%">
 													<a href="album.do?type=oneAlbum&oid=xx&pageNo=1&aid=xx">
-														<img src="/campus_network/images/photos/c1.jpg" width="200px"
+														<img src="/images/photos/c1.jpg" width="200px"
 															height="150px" border="0" /> </a>
 												</td>
 												<td valign="top">
@@ -315,7 +315,7 @@
 				</table>
 				<div
 					style="width: 20%; float: left; text-align: center; padding-top: 5px">
-					<img src="/campus_network/images/front/selfright.jpg" />
+					<img src="/images/front/selfright.jpg" />
 				</div>
 			</div>
 		</div>

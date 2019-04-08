@@ -1,7 +1,7 @@
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 
 	<head>
-	  	<link rel="stylesheet" href="/campus_network/css/css/common.css" type="text/css"></link>
+	  	<link rel="stylesheet" href="/css/css/common.css" type="text/css"></link>
 		<script type="text/javascript">
   <!-- 
 function changeBG(o){
@@ -16,12 +16,12 @@ function changeBG2(o){
 	</head>
 
 		<div class="head">
-			<img src="/campus_network/images/front/top1.gif" width="713px" />
-			<img src="/campus_network/images/front/top2.jpg" width="280px" />
-			<img src="/campus_network/images/front/xnw3.jpg" style="float: left;" />
+			<img src="/images/front/top1.gif" width="713px" />
+			<img src="/images/front/top2.jpg" width="280px" />
+			<img src="/images/front/xnw3.jpg" style="float: left;" />
 			<ul class="home_navi">
-			<li onmouseover="changeBG(this)" onmouseout="changeBG2(this)"><a class="top" href="/campus_network/login.do?flag=logout">首页</a></li>
-			<li onmouseover="changeBG(this)" onmouseout="changeBG2(this)"><a class="top" href="/campus_network/profile.do?flag=goHomePageUI">个人主页</a></li>
+			<li onmouseover="changeBG(this)" onmouseout="changeBG2(this)"><a class="top" href="/login.do?flag=logout">首页</a></li>
+			<li onmouseover="changeBG(this)" onmouseout="changeBG2(this)"><a class="top" href="/profile.do?flag=goHomePageUI">个人主页</a></li>
 			<li onmouseover="changeBG(this)" onmouseout="changeBG2(this)"><a class="top" href="#">修改</a></li>
 			<li onmouseover="changeBG(this)" onmouseout="changeBG2(this)"><a class="top" href="#">好友</a></li>
 			<li onmouseover="changeBG(this)" onmouseout="changeBG2(this)"><a class="top" href="#">应用</a></li>
@@ -29,7 +29,7 @@ function changeBG2(o){
 			<li onmouseover="changeBG(this)" onmouseout="changeBG2(this)"><a class="top" href="#">班级</a></li>
 			<li onmouseover="changeBG(this)" onmouseout="changeBG2(this)"><a class="top" href="#">站内信</a></li>
 			<li>搜索</li>
-			<li style="width: 170px;"><input type="text" /><img src="/campus_network/images/front/sou.jpg" /></li>
+			<li style="width: 170px;"><input type="text" /><img src="/images/front/sou.jpg" /></li>
 			</ul>
 			
 			<ul class="navi">

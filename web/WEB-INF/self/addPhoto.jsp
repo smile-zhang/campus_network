@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<link rel="stylesheet" href="/campus_network/css/css/updPersonInfo.css" type="text/css"></link>
+		<link rel="stylesheet" href="/css/css/updPersonInfo.css" type="text/css"></link>
 	</head>
 	<body>
 		<jsp:include page="head.jsp"></jsp:include>
@@ -15,7 +15,7 @@
 								class="tblDiv">
 								<tr>
 									<td colspan="2">
-										<img src="/campus_network/images/front/photo.gif" />
+										<img src="/images/front/photo.gif" />
 										<font class="word2"> 编辑相册 - 我 的第一个相册 </font>
 										<br />
 										<br />
@@ -45,7 +45,7 @@
 								</tr>
 								<tr>
 									<td valign="top" colspan="2" align="center">
-										<form action="/campus_network/album.do?flag=oneAlbumUI" method="post"
+										<form action="/album.do?flag=oneAlbumUI" method="post"
 											enctype="multipart/form-data">
 											<table width="80%" cellpadding="5" cellspacing="5">
 												<tr>
@@ -102,7 +102,7 @@
 							</table>
 						</td>
 						<td valign="top" align="center">
-							<img src="/campus_network/images/front/photoright.jpg" />
+							<img src="/images/front/photoright.jpg" />
 						</td>
 					</tr>
 				</table>

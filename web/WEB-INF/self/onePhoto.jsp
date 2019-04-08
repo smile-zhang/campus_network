@@ -4,7 +4,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<link rel="stylesheet" href="/campus_network/css/css/updPersonInfo.css" type="text/css"></link>
+		<link rel="stylesheet" href="/css/css/updPersonInfo.css" type="text/css"></link>
 	<script type="text/javascript">
 	<!--
 		var content="";
@@ -79,7 +79,7 @@
 										<td valign="top" colspan="2" align="center">
 											<a
 												href="album.do?type=onePhoto&pid=xx&oid=xx&aid=xx&pageNo=1">
-												<img src="/campus_network/images/photos/c1.jpg" alt="点击查看下一张" width="640px"
+												<img src="/images/photos/c1.jpg" alt="点击查看下一张" width="640px"
 													height="480px" /> </a>
 
 										</td>
@@ -118,7 +118,7 @@
 															<tr>
 																<td rowspan="2" width="8%">
 																	<a href="profile.do?type=feed&oid=xx"> <img
-																			src="/campus_network/images/userhead/u1.gif" width="50px"
+																			src="/images/userhead/u1.gif" width="50px"
 																			height="50px" />
 																	</a>
 																</td>
@@ -198,7 +198,7 @@
 							</div>
 						</td>
 						<td align="center" valign="top">
-							<img src="/campus_network/images/front/photoright.jpg" />
+							<img src="/images/front/photoright.jpg" />
 						</td>
 					</tr>
 				</table>

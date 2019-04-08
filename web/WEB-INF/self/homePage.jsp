@@ -4,9 +4,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<link rel="stylesheet" href="/campus_network/css/css/homePage.css" type="text/css"></link>
-		<link rel="stylesheet" href="/campus_network/css/css/common.css" type="text/css"></link>
-		<script type="text/javascript" src="/campus_network/js/common.js"></script>
+		<link rel="stylesheet" href="/css/css/homePage.css" type="text/css"></link>
+		<link rel="stylesheet" href="/css/css/common.css" type="text/css"></link>
+		<script type="text/javascript" src="/js/common.js"></script>
 		<script type="text/javascript">
 		<!--
 		function opSelf(){
@@ -102,14 +102,14 @@ a.feed:active {
 				<table>
 					<tr>
 						<td>
-							<img src="/campus_network/images/userhead/u1.gif" width="150px" height="150px" />
+							<img src="/images/userhead/u1.gif" width="150px" height="150px" />
 						</td>
 					</tr>
 					<tr>
 						<td onMouseOver="chgTblusers(this)"
 							onMouseOut="chgTblusers2(this)" id="editphoto">
 							&nbsp;
-							<a href="/campus_network/profile.do?flag=uploadPhotoUI" class="xh" id="editphotoa">更改我的头像</a>
+							<a href="/profile.do?flag=uploadPhotoUI" class="xh" id="editphotoa">更改我的头像</a>
 						</td>
 					</tr>
 					<tr>
@@ -159,7 +159,7 @@ a.feed:active {
 				</table>
 
 				<div class="allkinds">
-					<img src="/campus_network/images/front/profileleft.jpg" />
+					<img src="/images/front/profileleft.jpg" />
 				</div>
 			</div>
 			<!-- 各种信息 -->
@@ -168,7 +168,7 @@ a.feed:active {
 				<div class="curInfo">
 					&nbsp;
 					<font class="word2">三少爷 </font>&nbsp;
-					<img src="/campus_network/images/front/star.gif" />
+					<img src="/images/front/star.gif" />
 					&nbsp;
 					<font class="word4">有（4）人看过</font>&nbsp;
 					<font class="word3">什么也没做做 </font>&nbsp;
@@ -197,7 +197,7 @@ a.feed:active {
 									class="feed">日志</a>
 							</td>
 							<td class="feedsp" align="center">
-								<a href="/campus_network/album.do?flag=myAlbumUI" class="feed">相册</a>
+								<a href="/album.do?flag=myAlbumUI" class="feed">相册</a>
 							</td>
 							<td class="feedsp" align="center">
 								<a href="#" class="feed">应用</a>
@@ -249,7 +249,7 @@ a.feed:active {
 								<a href="album.do?type=oneAlbum&oid=xx&pageNo=1&aid=xx"
 									style="border: 1px #D8DFEA solid;" onmouseover="chgImg(this)"
 									onmouseout="chgImg2(this)" id="a100"> <img
-										src="/campus_network/images/photos/t4.jpg" width="100px" height="75px"
+										src="/images/photos/t4.jpg" width="100px" height="75px"
 										style="border: 5px #FFFFFF solid;" id="aa100" /> </a>
 								<br />
 								<b> <a
@@ -263,7 +263,7 @@ a.feed:active {
 								<a href="album.do?type=oneAlbum&oid=xx&pageNo=1&aid=xx"
 									style="border: 1px #D8DFEA solid;" onmouseover="chgImg(this)"
 									onmouseout="chgImg2(this)" id="a100"> <img
-										src="/campus_network/images/photos/t4.jpg" width="100px" height="75px"
+										src="/images/photos/t4.jpg" width="100px" height="75px"
 										style="border: 5px #FFFFFF solid;" id="aa100" /> </a>
 								<br />
 								<b> <a
@@ -276,7 +276,7 @@ a.feed:active {
 								<a href="album.do?type=oneAlbum&oid=xx&pageNo=1&aid=xx"
 									style="border: 1px #D8DFEA solid;" onmouseover="chgImg(this)"
 									onmouseout="chgImg2(this)" id="a100"> <img
-										src="/campus_network/images/photos/t4.jpg" width="100px" height="75px"
+										src="/images/photos/t4.jpg" width="100px" height="75px"
 										style="border: 5px #FFFFFF solid;" id="aa100" /> </a>
 								<br />
 								<b> <a
@@ -289,7 +289,7 @@ a.feed:active {
 								<a href="album.do?type=oneAlbum&oid=xx&pageNo=1&aid=xx"
 									style="border: 1px #D8DFEA solid;" onmouseover="chgImg(this)"
 									onmouseout="chgImg2(this)" id="a100"> <img
-										src="/campus_network/images/photos/t4.jpg" width="100px" height="75px"
+										src="/images/photos/t4.jpg" width="100px" height="75px"
 										style="border: 5px #FFFFFF solid;" id="aa100" /> </a>
 								<br />
 								<b> <a
@@ -318,7 +318,7 @@ a.feed:active {
 						</tr>
 						<tr>
 							<td style="border-bottom: 1px #D8DFEA solid;">
-								<img src="/campus_network/images/front/blog.gif " />
+								<img src="/images/front/blog.gif " />
 							</td>
 							<td style="border-bottom: 1px #D8DFEA solid;">
 								<a href="blog.do?type=read&oid=xx>&aid=xx&pageNo=1" class="xh"
@@ -330,7 +330,7 @@ a.feed:active {
 						</tr>
 						<tr>
 							<td style="border-bottom: 1px #D8DFEA solid;">
-								<img src="/campus_network/images/front/blog.gif " />
+								<img src="/images/front/blog.gif " />
 							</td>
 							<td style="border-bottom: 1px #D8DFEA solid;">
 								<a href="blog.do?type=read&oid=xx>&aid=xx&pageNo=1" class="xh"
@@ -342,7 +342,7 @@ a.feed:active {
 						</tr>
 						<tr>
 							<td style="border-bottom: 1px #D8DFEA solid;">
-								<img src="/campus_network/images/front/blog.gif " />
+								<img src="/images/front/blog.gif " />
 							</td>
 							<td style="border-bottom: 1px #D8DFEA solid;">
 								<a href="blog.do?type=read&oid=xx>&aid=xx&pageNo=1" class="xh"
@@ -640,7 +640,7 @@ a.feed:active {
 						<tr>
 							<td rowspan="2" width="8%">
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" /> </a>
+										src="/images/userhead/u1.gif" width="50px" height="50px" /> </a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷用户名</a>
@@ -666,7 +666,7 @@ a.feed:active {
 						<tr>
 							<td rowspan="2" width="8%">
 								<a href="profile.do?type=feed&oid=xx"> <img
-										src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" /> </a>
+										src="/images/userhead/u1.gif" width="50px" height="50px" /> </a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xx" class="xh">三少爷用户名</a>
@@ -707,7 +707,7 @@ a.feed:active {
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xxx"> <img
-										src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" />
+										src="/images/userhead/u1.gif" width="50px" height="50px" />
 								</a>
 							</td>
 							<td>
@@ -732,19 +732,19 @@ a.feed:active {
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xxx"> <img
-										src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" />
+										src="/images/userhead/u1.gif" width="50px" height="50px" />
 								</a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">香香</a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xxx"> <img
-										src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" />
+										src="/images/userhead/u1.gif" width="50px" height="50px" />
 								</a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">香香</a>
 							</td>
 							<td>
 							<a href="profile.do?type=feed&oid=xxx"> <img
-										src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" />
+										src="/images/userhead/u1.gif" width="50px" height="50px" />
 								</a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">香香</a>
 							
@@ -766,19 +766,19 @@ a.feed:active {
 						<tr>
 							<td>
 								<a href="profile.do?type=feed&oid=xxx"> <img
-										src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" />
+										src="/images/userhead/u1.gif" width="50px" height="50px" />
 								</a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">香香</a>
 							</td>
 							<td>
 								<a href="profile.do?type=feed&oid=xxx"> <img
-										src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" />
+										src="/images/userhead/u1.gif" width="50px" height="50px" />
 								</a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">香香</a>
 							</td>
 							<td>
 							<a href="profile.do?type=feed&oid=xxx"> <img
-										src="/campus_network/images/userhead/u1.gif" width="50px" height="50px" />
+										src="/images/userhead/u1.gif" width="50px" height="50px" />
 								</a>
 								<a href="profile.do?type=feed&oid=xx" class="xh">香香</a>
 							

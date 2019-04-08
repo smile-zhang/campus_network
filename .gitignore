@@ -2,3 +2,5 @@
 *.inl
 vcs.xml
 workspace.xml
+classes
+trget
