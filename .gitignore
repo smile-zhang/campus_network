@@ -1,6 +1,3 @@
-.idea
-*.inl
-vcs.xml
-workspace.xml
+.idae
 classes
 trget
