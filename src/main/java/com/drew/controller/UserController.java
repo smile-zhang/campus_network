@@ -1,13 +1,11 @@
-package controller;
+package com.drew.controller;
 
 import com.alibaba.fastjson.JSON;
-import model.UserModel;
+import com.drew.model.UserModel;
 import org.springframework.beans.BeanUtils;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
-import pojo.UserLoginPojo;
-
-import java.util.Date;
+import com.drew.pojo.UserLoginPojo;
 
 /**
  * @author zhangTao

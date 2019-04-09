@@ -1,4 +1,4 @@
-package dao;
+package com.drew.dao;
 
 /**
  * @author zhangTao

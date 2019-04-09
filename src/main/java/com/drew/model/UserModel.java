@@ -1,4 +1,4 @@
-package model;
+package com.drew.model;
 
 /**
  * @author zhangTao
