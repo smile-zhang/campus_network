@@ -1,0 +1,23 @@
+-------------  开发工具部分
+tomcat 
+maven
+git	
+jdk
+postMan
+
+
+redis
+redisManager
+mysql
+navecat
+oracle
+
+------------  生活工具部分
+evernote    ---印象笔记
+五笔输入法
+有道翻译
+sublim
+vim
+teamviewer
+
+微信  QQ   风易云音乐  有道云笔记   yy
